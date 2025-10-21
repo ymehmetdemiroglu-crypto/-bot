@@ -1,0 +1,158 @@
+{
+  "English Books": [
+    {
+      "title": "Lehninger Principles of Biochemistry",
+      "link": "https://drive.google.com/file/d/1NlTx0SL_ur-ZjiOObuBX84vfJW27wq8E/view?usp=drive_link"
+    },
+    {
+      "title": "Aulton's Pharmaceutics - The Design and Manufacture of Medicines (6th Edition)",
+      "link": "https://drive.google.com/file/d/1pfSX0SbyAtknP1N4Wir0_ZvvyVT85nZT/view?usp=drive_link"
+    },
+    {
+      "title": "Basic Concepts in Biochemistry - A Student's Survival Guide (2nd Edition)",
+      "link": "https://drive.google.com/file/d/12a13kmf4ipPraLsFSMQF5JQ4V98K3NNb/view?usp=drive_link"
+    },
+    {
+      "title": "Color Atlas of Biochemistry (2nd Edition)",
+      "link": "https://drive.google.com/file/d/1L85PxxSIr85CxFDNk4ptl-j-xGu-bF2d/view?usp=drive_link"
+    },
+    {
+      "title": "Organic Chemistry - Fessenden & Fessenden",
+      "link": "https://drive.google.com/file/d/1rIk7Se7Ggoru9GHR5P5tz2dahGTPiNCh/view?usp=drive_link"
+    },
+    {
+      "title": "The Complete Book of Essential Oils & Aromatherapy",
+      "link": "https://drive.google.com/file/d/15aVwBYSsCykDhwFASByKCcf9jO2sZG5l/view?usp=drive_link"
+    }
+  ],
+  "Turkish Books": [
+    {
+      "title": "Farmakognozi (Turkish)",
+      "link": "https://drive.google.com/file/d/1x51sZ8NXI--kEQ8XmpDq9GmbBCIvsusG/view?usp=drive_link"
+    },
+    {
+      "title": "Analitik Ders Notları (I) Mühendislik",
+      "link": "https://drive.google.com/file/d/1UKJUjkavuHsI97YwiIO1ZmZMpg9chtEz/view?usp=drive_link"
+    },
+    {
+      "title": "Analitik Kimya Kitap",
+      "link": "https://drive.google.com/file/d/1M5OxYLFxlzKwEqHK3iFr_og-y7yMI1rE/view?usp=drive_link"
+    },
+    {
+      "title": "Biruni Üniversitesi Eczacılık Fakültesi Öğrenci El Kitabı",
+      "link": "https://drive.google.com/file/d/1C6mA3TyvvyEgXAlL6xbpYh5fTxDPNx1N/view?usp=drive_link"
+    },
+    {
+      "title": "Farmasötik Botanik - Ankara Üniversitesi",
+      "link": "https://drive.google.com/file/d/1bxes9xj7F6avzfT-5hTD5k1lEZuXWR0g/view?usp=drive_link"
+    },
+    {
+      "title": "Temel İnsan Anatomisi",
+      "link": "https://drive.google.com/file/d/19uqD8E8VvL94DPS_6A1hmqALvOOkKJLi/view?usp=drive_link"
+    },
+    {
+      "title": "TTP Farmakoloji 1 - Farmakolojiye Giriş",
+      "link": "https://drive.google.com/file/d/1zKa1GLGQe1WucT4IWvquH2UmENjybqRA/view?usp=drive_link"
+    }
+  ],
+  "Arabic Books": [
+    {
+      "title": "الأسماء التجارية والعلمية للأدوية مع الاستعمالات وموانع الاستعمال",
+      "link": "https://drive.google.com/file/d/1LKkAWPZ2JlgH2PsCADfBqKYwAYuYf34w/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الثلاجة",
+      "link": "https://drive.google.com/file/d/1c-Bn5QTbdV5Ur1Vau74lN8UMiMljwUO7/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الجهاز العصبي",
+      "link": "https://drive.google.com/file/d/1huvFaVKpaLxXY56snDy9UX8KzfKeGrLy/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الطوارئ",
+      "link": "https://drive.google.com/file/d/1HXYPMF5VTsTd4Kpvz_MYdMNok-0rXHgH/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الضغط",
+      "link": "https://drive.google.com/file/d/1SIMqS3GM79vvVAm2PznrZjaci8UD585a/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية التقيؤ والغثيان",
+      "link": "https://drive.google.com/file/d/1GdJgowt6zbp91GzY4YjFGYX6a4_9yZFl/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الجلدية",
+      "link": "https://drive.google.com/file/d/1TKLKWxuCO-GNwiuvFpuwgkcU-fDT-anU/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الحمى والرضاع",
+      "link": "https://drive.google.com/file/d/19jxc8raxKf0hndBy8hMyLNuZ9lozytLE/view?usp=drive_link"
+    },
+    {
+      "title": "أدوية الطفيليات",
+      "link": "https://drive.google.com/file/d/19oKRtJBc76ZaocdBtm4l0W3i-wLY9Wkm/view?usp=drive_link"
+    },
+    {
+      "title": "التركيبات",
+      "link": "https://drive.google.com/file/d/1zQSS4eMlfOJLkkg3bCJELIx5PVNI0f6r/view?usp=drive_link"
+    },
+    {
+      "title": "السكري الداء والدواء",
+      "link": "https://drive.google.com/file/d/1ajKvwooryCIzBndXlzaTAfSFDqVN6cif/view?usp=drive_link"
+    },
+    {
+      "title": "جمع الفيتامينات - أعراض نقصها وكيف تحصل عليها",
+      "link": "https://drive.google.com/file/d/16WODPEhDwslDJ6giayg-OfNfn_FzDBPG/view?usp=drive_link"
+    },
+    {
+      "title": "علم السموميات",
+      "link": "https://drive.google.com/file/d/1G6t1WBXFYmP1kcM3nYnDvNiMdN-hEnGY/view?usp=drive_link"
+    },
+    {
+      "title": "فقر الدم",
+      "link": "https://drive.google.com/file/d/1D1AozbX1i8rnVcl9s1f9CpMeYpOM0wwY/view?usp=drive_link"
+    },
+    {
+      "title": "مسكنات الألم كاملة",
+      "link": "https://drive.google.com/file/d/1eOpl5nZoS4zY0MbSKVLEoHym5o3atXsv/view?usp=drive_link"
+    },
+    {
+      "title": "مضادات التشنج",
+      "link": "https://drive.google.com/file/d/1pXUjFk1wpztkCUXTc_9Z52jeGm0FUJsL/view?usp=drive_link"
+    },
+    {
+      "title": "مضادات الفطريات",
+      "link": "https://drive.google.com/file/d/1w-6TLMDLaXvAS7S-jSYOYF20xMsNMCvq/view?usp=drive_link"
+    },
+    {
+      "title": "مضادات الفيروس والديدان",
+      "link": "https://drive.google.com/file/d/19YNXd0gFOdqZbR8yYe27AcZpeuvm7Sp_/view?usp=drive_link"
+    },
+    {
+      "title": "ملخص أدوية النسائية",
+      "link": "https://drive.google.com/file/d/1n21QuMCAXXxuDf02E_UWo3OKEOxUzQhL/view?usp=drive_link"
+    },
+    {
+      "title": "ملزمة أدوية",
+      "link": "https://drive.google.com/file/d/16IaBERuheCrQVBTLRH1O2UzzBbAh4nzn/view?usp=drive_link"
+    },
+    {
+      "title": "موانع الحمل",
+      "link": "https://drive.google.com/file/d/1Bf-5W0YP3QGr3BJcKB6JKCfM08JCLe2H/view?usp=drive_link"
+    }
+  ],
+  "Training & Exam Files": [
+    {
+      "title": "أسئلة دورات لامتحان السناج",
+      "link": "https://drive.google.com/file/d/1-PYyRst8Ab0Wswzx4uLiUGSDewDT1chO/view?usp=drive_link"
+    },
+    {
+      "title": "مثال عن دفتر التدريب / سناج",
+      "link": "https://drive.google.com/file/d/1S3qJmploZw5t-qvDkYPORuIRC08_AiG2/view?usp=drive_link"
+    },
+    {
+      "title": "Staj Dosyası",
+      "link": "https://drive.google.com/file/d/10njUQlLJRGe6RSxYPZYxruT0oR0epkhP/view?usp=drive_link"
+    }
+  ]
+}
